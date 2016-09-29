@@ -64,7 +64,7 @@
 							<groupname>root</groupname>
 							<artifact />
                         </mapping>
-						<mapping>
+                        <mapping>
 							<directory>/usr/share/${project.name}</directory>
 							<filemode>755</filemode>
 							<username>root</username>
